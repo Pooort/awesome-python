@@ -108,12 +108,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Libraries for administrative interfaces.*
 
 * [Ajenti](https://github.com/ajenti/ajenti) - The admin panel your servers deserve.
-* [django-suit](http://djangosuit.com/) - Alternative Django Admin-Interface (free only for Non-commercial use).
-* [django-xadmin](https://github.com/sshwsfc/xadmin) - Drop-in replacement of Django admin comes with lots of goodies.
-* [flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask.
-* [flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery.
-* [Grappelli](http://grappelliproject.com) - A jazzy skin for the Django Admin-Interface.
-* [Wooey](https://github.com/wooey/wooey) - A Django app which creates automatic web UIs for Python scripts.
 
 ## Algorithms and Design Patterns
 
@@ -122,116 +116,54 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python.
 * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple yet effective library for implementing common design patterns.
 * [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns in Python.
-* [sortedcontainers](http://www.grantjenks.com/docs/sortedcontainers/) - Fast, pure-Python implementation of SortedList, SortedDict, and SortedSet types.
 
 ## Anti-spam
 
 *Libraries for fighting spam.*
 
 * [django-simple-captcha](https://github.com/mbi/django-simple-captcha) - A simple and highly customizable Django app to add captcha images to any Django form.
-* [django-simple-spam-blocker](https://github.com/moqada/django-simple-spam-blocker) - Simple spam blocker for Django.
 
 ## Asset Management
 
 *Tools for managing, compressing and minifying website assets.*
 
 * [django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline JavaScript or CSS into a single cached file.
-* [django-pipeline](https://github.com/jazzband/django-pipeline) - An asset packaging library for Django.
-* [django-storages](https://github.com/jschneier/django-storages) - A collection of custom storage back ends for Django.
-* [fanstatic](http://www.fanstatic.org/en/latest/) - Packages, optimizes, and serves static file dependencies as Python packages.
-* [fileconveyor](http://wimleers.com/fileconveyor) - A daemon to detect and sync files to CDNs, S3 and FTP.
-* [flask-assets](https://github.com/miracle2k/flask-assets) - Helps you integrate webassets into your Flask app.
-* [jinja-assets-compressor](https://github.com/jaysonsantos/jinja-assets-compressor) - A Jinja extension to compile and compress your assets.
-* [webassets](https://github.com/miracle2k/webassets) - Bundles, optimizes, and manages unique cache-busting URLs for static resources.
 
 ## Audio
 
 *Libraries for manipulating audio.*
 
-* [audiolazy](https://github.com/danilobellini/audiolazy) - Expressive Digital Signal Processing (DSP) package for Python.
-* [audioread](https://github.com/beetbox/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
 * [beets](http://beets.io/) - A music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
-* [dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
-* [django-elastic-transcoder](https://github.com/StreetVoice/django-elastic-transcoder) - Django + [Amazon Elastic Transcoder](https://aws.amazon.com/elastictranscoder/).
-* [eyeD3](http://eyed3.nicfit.net/) - A tool for working with audio files, specifically MP3 files containing ID3 metadata.
-* [id3reader](https://nedbatchelder.com/code/modules/id3reader.py) - A Python module for reading MP3 meta data.
-* [m3u8](https://github.com/globocom/m3u8) - A module for parsing m3u8 file.
-* [mingus](http://bspaans.github.io/python-mingus/) - An advanced music theory and notation package with MIDI file and playback support.
-* [mutagen](https://github.com/quodlibet/mutagen) - A Python module to handle audio metadata.
-* [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications
-* [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface.
-* [pyechonest](https://github.com/echonest/pyechonest) - Python client for the [Echo Nest](http://static.echonest.com/enspex/) API.
-* [talkbox](https://github.com/cournape/talkbox) - A Python library for speech/signal processing.
-* [TimeSide](https://github.com/Parisson/TimeSide) - Open web audio processing framework.
-* [tinytag](https://github.com/devsnd/tinytag) - A library for reading music meta data of MP3, OGG, FLAC and Wave files.
 
 ## Authentication
 
 *Libraries for implementing authentications schemes.*
-
-* OAuth
-    * [Authomatic](https://github.com/authomatic/authomatic) - Simple but powerful framework agnostic authentication/authorization client.
     * [django-allauth](https://github.com/pennersr/django-allauth) - Authentication app for Django that "just works."
-    * [django-oauth-toolkit](https://github.com/evonove/django-oauth-toolkit) - OAuth 2 goodies for Django.
-    * [Flask-OAuthlib](https://github.com/lepture/flask-oauthlib) - OAuth 1.0/a, 2.0 implementation of client and provider for Flask.
-    * [OAuthLib](https://github.com/idan/oauthlib) - A generic and thorough implementation of the OAuth request-signing logic.
-    * [python-oauth2](https://github.com/joestump/python-oauth2) - A fully tested, abstract interface to creating OAuth clients and servers.
-    * [python-social-auth](https://github.com/omab/python-social-auth) - An easy-to-setup social authentication mechanism.
-    * [rauth](https://github.com/litl/rauth) - A Python library for OAuth 1.0/a, 2.0, and Ofly.
-    * [sanction](https://github.com/demianbrecht/sanction) - A dead simple OAuth2 client implementation.
-* Others
-    * [jose](https://github.com/demonware/jose) - JavaScript Object Signing and Encryption draft implementation.
+    
     * [PyJWT](https://github.com/jpadilla/pyjwt) - Implementation of the JSON Web Token draft 01.
-    * [python-jws](https://github.com/brianloveswords/python-jws) - Implementation of JSON Web Signatures draft 02.
-    * [python-jwt](https://github.com/davedoesdev/python-jwt) - Module for generating and verifying JSON Web Tokens.
 
 ## Build Tools
 
 *Compile software from source code.*
-
-* [BitBake](http://www.yoctoproject.org/docs/1.6/bitbake-user-manual/bitbake-user-manual.html) - A make-like build tool for embedded Linux.
-* [buildout](http://www.buildout.org/en/latest/) - A build system for creating, assembling and deploying applications from multiple parts.
 * [PlatformIO](https://github.com/platformio/platformio-core) - A console tool to build code with different development platforms.
-* [PyBuilder](https://github.com/pybuilder/pybuilder) - A continuous build tool written in pure Python.
-* [SCons](http://www.scons.org/) - A software construction tool.
 
 ## Built-in Classes Enhancement
 
 *Libraries for enhancing Python built-in classes.*
 
 * [attrs](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
-* [bidict](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map data structures and related functionality..
-* [Box](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access.
-* [dotted](https://github.com/carlosescri/DottedDict) - A library that provides a method of accessing lists and dicts with a dotted path notation.
 
 ## CMS
 
 *Content Management Systems.*
 
 * [django-cms](https://www.django-cms.org/en/) - An Open source enterprise CMS based on the Django.
-* [djedi-cms](http://djedi-cms.org/) - A lightweight but yet powerful Django CMS with plugins, inline editing and performance in mind.
-* [FeinCMS](http://www.feincms.org/) - One of the most advanced Content Management Systems built on Django.
-* [Kotti](http://kotti.pylonsproject.org/) - A high-level, Pythonic web application framework built on Pyramid.
-* [Mezzanine](http://mezzanine.jupo.org/) - A powerful, consistent, and flexible content management platform.
-* [Opps](http://opps.github.io/opps/) - A Django-based CMS for magazines, newspapers websites and portals with high-traffic.
-* [Plone](https://plone.org/) - A CMS built on top of the open source application server Zope.
-* [Quokka](http://quokkaproject.org/) - Flexible, extensible, small CMS powered by Flask and MongoDB.
-* [Wagtail](https://wagtail.io/) - A Django content management system.
-* [Widgy](https://wid.gy/) - Last CMS framework, based on Django.
 
 ## Caching
 
 *Libraries for caching data.*
 
-* [Beaker](https://github.com/bbangert/beaker) - A library for caching and sessions for use with web applications and stand-alone Python scripts and applications.
-* [DiskCache](http://www.grantjenks.com/docs/diskcache/) - SQLite and file backed cache backend with faster lookups than memcached and redis.
-* [django-cache-machine](https://github.com/django-cache-machine/django-cache-machine) - Automatic caching and invalidation for Django models.
 * [django-cacheops](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
-* [django-viewlet](https://github.com/5monkeys/django-viewlet) - Render template parts with extended cache control.
-* [dogpile.cache](http://dogpilecache.readthedocs.io/en/latest/) - dogpile.cache is next generation replacement for Beaker made by same authors.
-* [HermesCache](https://pypi.python.org/pypi/HermesCache) - Python caching library with tag-based invalidation and dogpile effect prevention.
-* [johnny-cache](https://github.com/jmoiron/johnny-cache) - A caching framework for Django applications.
-* [pylibmc](https://github.com/lericson/pylibmc) - A Python wrapper around the [libmemcached](http://libmemcached.org/libMemcached.html) interface.
 
 ## ChatOps Tools
 
@@ -244,27 +176,15 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Frameworks and libraries for Cluster Computing.*
 
 * [PySpark](https://pypi.python.org/pypi/pyspark/) - [Apache Spark](https://spark.apache.org/) Python API.
-* [dask](https://dask.pydata.org/en/latest/) - A flexible parallel computing library for analytic computing.
-* [faust](https://github.com/robinhood/faust) - A stream processing library, porting the ideas from [Kafka Streams](https://kafka.apache.org/documentation/streams/) to Python.
-* [luigi](https://github.com/spotify/luigi) - A module that helps you build complex pipelines of batch jobs.
-* [mrjob](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or Amazon Web Services.
-* [streamparse](https://github.com/Parsely/streamparse) - Run Python code against real-time streams of data via [Apache Storm](http://storm.apache.org/).
 
 ## Code Analysis
 
 *Tools of static analysis, linters and code quality checkers. See: [awesome-static-analysis](https://github.com/mre/awesome-static-analysis).*
 
 * Code Analysis
-    * [flake8](https://pypi.python.org/pypi/flake8) - A wrapper around pycodestyle, pyflakes and McCabe.
     * [coala](http://coala.io/) - Language independent and easily extendable code analysis application.
-    * [code2flow](https://github.com/scottrogowski/code2flow) - Turn your Python and JavaScript code into DOT flowcharts.
-    * [prospector](https://github.com/landscapeio/prospector) - A tool to analyse Python code.
-    * [pycallgraph](https://github.com/gak/pycallgraph) - A library that visualises the flow (call graph) of your Python application.
-    * [pylama](https://github.com/klen/pylama) - A code audit tool for Python and JavaScript.
-    * [pylint](https://www.pylint.org/) - A fully customizable source code analyzer.
 * Static Type Checkers
     * [mypy](http://mypy-lang.org/) - Check variable types during compile time.
-    * [Pyre](https://github.com/facebook/pyre-check) - Performant type checking.
 * Static Type Annotations Generators
     * [MonkeyType](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types
 
@@ -273,49 +193,22 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Libraries for building command-line application.*
 
 * Command-line Application Development
-    * [cement](http://builtoncement.com/) - CLI Application Framework for Python.
-    * [click](http://click.pocoo.org/dev/) - A package for creating beautiful command line interfaces in a composable way.
-    * [cliff](https://docs.openstack.org/developer/cliff/) - A framework for creating command-line programs with multi-level commands.
-    * [clint](https://github.com/kennethreitz/clint) - Python Command-line Application Tools.
-    * [docopt](http://docopt.org/) - Pythonic command line arguments parser.
-    * [Gooey](https://github.com/chriskiehl/Gooey) - Turn command line programs into a full GUI application with one line.
     * [Python Fire](https://github.com/google/python-fire) - A library for creating command line interfaces from absolutely any Python object.
-    * [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - A library for building powerful interactive command lines.
 * Terminal Rendering
-    * [asciimatics](https://github.com/peterbrittain/asciimatics) - A package to create full-screen text UIs (from interactive forms to ASCII animations).
-    * [bashplotlib](https://github.com/glamp/bashplotlib) - Making basic plots in the terminal.
     * [colorama](https://pypi.python.org/pypi/colorama) - Cross-platform colored terminal text.
 * Productivity Tools
-    * [aws-cli](https://github.com/aws/aws-cli) - A universal command-line interface for Amazon Web Services.
-    * [cookiecutter](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates).
-    * [doitlive](https://github.com/sloria/doitlive) - A tool for live presentations in the terminal.
-    * [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
-    * [httpie](https://github.com/jakubroztocil/httpie) - A command line HTTP client, a user-friendly cURL replacement.
-    * [kube-shell](https://github.com/cloudnativelabs/kube-shell) - An integrated shell for working with the Kubernetes CLI.
-    * [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-    * [PathPicker](https://github.com/facebook/PathPicker) - Select files out of bash output.
-    * [percol](https://github.com/mooz/percol) - Adds flavor of interactive selection to the traditional pipe concept on UNIX.
-    * [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
-    * [SAWS](https://github.com/donnemartin/saws) - A Supercharged AWS CLI.
     * [thefuck](https://github.com/nvbn/thefuck) - Correcting your previous console command.
-    * [tmuxp](https://github.com/tony/tmuxp) - A [tmux](https://github.com/tmux/tmux) session manager.
-    * [try](https://github.com/timofurrer/try) - A dead simple CLI to try out python packages - it's never been easier.
 
 ## Compatibility
 
 *Libraries for migrating from Python 2 to 3.*
 
 * [Python-Future](http://python-future.org/index.html) - The missing compatibility layer between Python 2 and Python 3.
-* [Python-Modernize](https://github.com/mitsuhiko/python-modernize) - Modernizes Python code for eventual Python 3 migration.
-* [Six](https://pypi.python.org/pypi/six) - Python 2 and 3 compatibility utilities.
 
 ## Computer Vision
 
 *Libraries for computer vision.*
 
-* [OpenCV](http://opencv.org/) - Open Source Computer Vision Library.
-* [pyocr](https://github.com/openpaperwork/pyocr) - A wrapper for Tesseract and Cuneiform.
-* [pytesseract](https://github.com/madmaze/pytesseract) - Another wrapper for [Google Tesseract OCR](https://github.com/tesseract-ocr).
 * [SimpleCV](http://simplecv.org/) - An open source framework for building computer vision applications.
 
 ## Concurrency and Parallelism
