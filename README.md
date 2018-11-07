@@ -42,7 +42,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [Files](#files)
     - [Foreign Function Interface](#foreign-function-interface)
     - [Forms](#forms)
-    - [Functional Programming](#functional-programming)
     - [Game Development](#game-development)
     - [Geolocation](#geolocation)
     - [GUI](#gui)
@@ -371,12 +370,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Libraries for working with forms.*
 
 * [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - A Django app which lets you create beautiful forms in a very elegant and DRY way.
-
-## Functional Programming
-
-*Functional Programming with Python.*
-
-* [fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP.
 
 ## GUI
 
