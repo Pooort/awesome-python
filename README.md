@@ -205,12 +205,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * [Python-Future](http://python-future.org/index.html) - The missing compatibility layer between Python 2 and Python 3.
 
-## Computer Vision
-
-*Libraries for computer vision.*
-
-* [SimpleCV](http://simplecv.org/) - An open source framework for building computer vision applications.
-
 ## Concurrency and Parallelism
 
 *Libraries for concurrent and parallel execution.*
