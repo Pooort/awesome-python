@@ -360,10 +360,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Libraries for providing foreign function interface.*
 
-* [cffi](https://pypi.python.org/pypi/cffi) - Foreign Function Interface for Python calling C code.
-* [ctypes](https://docs.python.org/3/library/ctypes.html) - (Python standard library) Foreign Function Interface for Python calling C code.
 * [PyCUDA](https://mathema.tician.de/software/pycuda/) - A Python wrapper for Nvidia's CUDA API.
-* [SWIG](http://www.swig.org/Doc1.3/Python.html) - Simplified Wrapper and Interface Generator.
 
 ## Forms
 
@@ -381,13 +378,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Awesome game development libraries.*
 
-* [Cocos2d](http://cocos2d.org/) - cocos2d is a framework for building 2D games, demos, and other graphical/interactive applications. It is based on pyglet.
-* [Panda3D](https://www.panda3d.org/) - 3D game engine developed by Disney and maintained by Carnegie Mellon's Entertainment Technology Center. Written in C++, completely wrapped in Python.
-* [Pygame](http://www.pygame.org/news.html) - Pygame is a set of Python modules designed for writing games.
-* [PyOgre](http://www.ogre3d.org/tikiwiki/PyOgre) - Python bindings for the Ogre 3D render engine, can be used for games, simulations, anything 3D.
-* [PyOpenGL](http://pyopengl.sourceforge.net/) - Python ctypes bindings for OpenGL and it's related APIs.
-* [PySDL2](http://pysdl2.readthedocs.io/en/rel_0_9_5/) - A ctypes based wrapper for the SDL2 library.
-* [RenPy](https://www.renpy.org/) - A Visual Novel engine.
+* [Cocos2d](https://github.com/los-cocos/cocos) - cocos2d is a framework for building 2D games, demos, and other graphical/interactive applications. It is based on pyglet.
 
 ## Geolocation
 
@@ -399,16 +390,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Libraries for working with HTML and XML.*
 
-* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Providing Pythonic idioms for iterating, searching, and modifying HTML or XML.
-* [bleach](https://github.com/mozilla/bleach) - A whitelist-based HTML sanitization and text linkification library.
-* [cssutils](https://pypi.python.org/pypi/cssutils/) - A CSS library for Python.
-* [html5lib](https://github.com/html5lib/html5lib-python) - A standards-compliant library for parsing and serializing HTML documents and fragments.
-* [lxml](http://lxml.de/) - A very fast, easy-to-use and versatile library for handling HTML and XML.
-* [MarkupSafe](https://github.com/pallets/markupsafe) - Implements a XML/HTML/XHTML Markup safe string for Python.
-* [pyquery](https://github.com/gawel/pyquery) - A jQuery-like library for parsing HTML.
-* [untangle](https://github.com/stchris/untangle) - Converts XML documents to Python objects for easy access.
-* [WeasyPrint](http://weasyprint.org) - A visual rendering engine for HTML and CSS that can export to PDF.
-* [xmldataset](https://xmldataset.readthedocs.io/en/latest/) - Simple XML Parsing.
 * [xmltodict](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON.
 
 ## HTTP
@@ -416,22 +397,13 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Libraries for working with HTTP.*
 
 * [grequests](https://github.com/kennethreitz/grequests) - requests + gevent for asynchronous HTTP requests.
-* [httplib2](https://github.com/httplib2/httplib2) - Comprehensive HTTP client library.
 * [requests](http://docs.python-requests.org/en/latest/) - HTTP Requests for Humans™.
-* [treq](https://github.com/twisted/treq) - Python requests like API built on top of Twisted's HTTP client.
-* [urllib3](https://github.com/shazow/urllib3) - A HTTP library with thread-safe connection pooling, file post support, sanity friendly.
 
 ## Hardware
 
 *Libraries for programming with hardware.*
 
-* [ino](http://inotool.org/) - Command line toolkit for working with [Arduino](https://www.arduino.cc/).
-* [keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
-* [mouse](https://github.com/boppreh/mouse) - Hook and simulate global mouse events on Windows and Linux.
-* [Pingo](http://www.pingo.io/) - Pingo provides a uniform API to program devices like the Raspberry Pi, pcDuino, Intel Galileo, etc.
-* [PyUserInput](https://github.com/SavinaRoja/PyUserInput) - A module for cross-platform control of the mouse and keyboard.
 * [scapy](https://github.com/secdev/scapy) - A brilliant packet manipulation library.
-* [wifi](https://github.com/rockymeza/wifi) - A Python library and command line tool for working with WiFi on Linux.
 
 ## Image Processing
 
