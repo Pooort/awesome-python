@@ -968,15 +968,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Full stack web frameworks.*
 
-* [Django](https://www.djangoproject.com/) - The most popular web framework in Python.
-    * [awesome-django](https://github.com/rosarior/awesome-django)
 * [Flask](http://flask.pocoo.org/) - A microframework for Python.
     * [awesome-flask](https://github.com/humiaozuzu/awesome-flask)
-* [Pyramid](https://pylonsproject.org/) - A small, fast, down-to-earth, open source Python web framework.
-    * [awesome-pyramid](https://github.com/uralbash/awesome-pyramid)
-* [Sanic](https://github.com/channelcat/sanic) - Web server that's written to go fast.
-* [Tornado](http://www.tornadoweb.org/en/latest/) - A Web framework and asynchronous networking library.
-* [Vibora](https://vibora.io/) - Fast, efficient and asynchronous Web framework inspired by Flask.
 
 ## WebSocket
 
