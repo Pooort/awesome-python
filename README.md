@@ -20,7 +20,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [Code Analysis](#code-analysis)
     - [Command-line Tools](#command-line-tools)
     - [Compatibility](#compatibility)
-    - [Computer Vision](#computer-vision)
     - [Concurrency and Parallelism](#concurrency-and-parallelism)
     - [Configuration](#configuration)
     - [Cryptography](#cryptography)
